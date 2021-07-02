@@ -1,0 +1,31 @@
+{
+    "data" : [
+        {
+            "id": 0,
+            "image": "/images/wall-1.jpg",
+            "name": "Craftel Wood Wall Clock",
+            "price": "(U+20B9) 2,559",
+            "size": "18 x 18 inch",
+            "color": "Gold",
+            "category" : "wallclock"
+        },
+        {
+            "id": 1,
+            "image": "/images/wall-2.jpg",
+            "name": "Webelkart Plastic Wall Clock",
+            "price": "(U+20B9) 799",
+            "size": "11.75 inch",
+            "color": "Copper",
+            "category" : "wallclock"
+        },
+        {
+            "id": 2,
+            "image": "/images/wall-3.jpg",
+            "name": "Wall Clock L1329B",
+            "price": "(U+20B9) 1,099",
+            "size": "56 (U+00D7) 5 cm",
+            "color": "Silver",
+            "category" : "wallclock"
+        }
+    ]
+}
